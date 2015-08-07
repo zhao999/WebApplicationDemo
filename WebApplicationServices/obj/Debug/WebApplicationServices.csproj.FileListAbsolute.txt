@@ -1,0 +1,12 @@
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\WebApplicationServices.dll.config
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\WebApplicationServices.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\WebApplicationServices.pdb
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\EntityFramework.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\WebApplicationModel.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\WebApplicationModel.pdb
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\EntityFramework.xml
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\obj\Debug\WebApplicationServices.csprojResolveAssemblyReference.cache
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\obj\Debug\WebApplicationServices.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationServices\obj\Debug\WebApplicationServices.pdb

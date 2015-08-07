@@ -1,0 +1,44 @@
+﻿
+@Model WebApplicationModel.User
+@{
+    ViewBag.Title = "Add";
+    Layout="~/Views/Shared/_Layout.cshtml";
+}
+@section head{
+    <script src="~/Scripts/knockout-3.3.0.debug.js"></script>
+    @Scripts.Render("~/Scripts/bootstrap.js")
+    @Styles.Render("~/Content/bootstrap.csss")
+}
+<h2>Add</h2>
+<form id="old" action="add" method="post">
+    <input id="name" name="name" />
+    <input id="groupname" name="groupname" />
+    <input id="groupid" name="groupid"/>
+    <input type="submit" />
+</form>
+<form id="boostrapnew" data-bind="submit:doSomething">
+    <div class="input-group">
+        <span class="input-group-addon">名字</span>
+        <input type="text" name="name" class="form-control" placeholder="Username">
+    </div>
+
+    <div class="input-group">
+        <input type="text" name="groupid" class="form-control">
+        <span class="input-group-addon">组id</span>
+    </div>
+
+    <div class="input-group">
+        <span class="input-group-addon">$</span>
+        <input type="text" name="groupname" class="form-control">
+        <span class="input-group-addon">组名称</span>
+    </div>
+    <button type="submit">Submit</button>
+</form>
+<script type="text/javascript">
+    var viewModel = {
+        doSomething: function (formElement) {
+            // ... now do something
+        }
+    };
+</script>
+

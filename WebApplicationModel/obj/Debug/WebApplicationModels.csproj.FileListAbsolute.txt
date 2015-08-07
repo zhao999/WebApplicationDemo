@@ -1,0 +1,5 @@
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationModel\bin\Debug\WebApplicationModel.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationModel\bin\Debug\WebApplicationModel.pdb
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationModel\obj\Debug\WebApplicationModels.csprojResolveAssemblyReference.cache
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationModel\obj\Debug\WebApplicationModel.dll
+c:\users\hanghang\documents\visual studio 2013\Projects\WebApplicationDemo\WebApplicationModel\obj\Debug\WebApplicationModel.pdb
